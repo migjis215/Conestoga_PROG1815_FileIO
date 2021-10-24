@@ -1,0 +1,10 @@
+C:\PROG1815\Assignment\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\PROG1815\Assignment\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\PROG1815\Assignment\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\PROG1815\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\PROG1815\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\PROG1815\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.StockPortfolioTracker.resources
+C:\PROG1815\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\PROG1815\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\PROG1815\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\PROG1815\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
